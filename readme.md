@@ -15,6 +15,7 @@ IMV - Event Project
     - open in browser
 4. You also can follow steps in this website "https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/"
 
-Installed scripts :
-1. resumable js / chunk upload <br>
-2. simplesoftware.io qrcode <br>
+<br>
+Installed scripts : <br>
+- resumable js / chunk upload <br>
+- simplesoftware.io qrcode <br>
