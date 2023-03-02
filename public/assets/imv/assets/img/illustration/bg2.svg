@@ -1,0 +1,16 @@
+<svg width="1440px" height="776px" viewBox="0 0 1440 776" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="44.0998308%" id="linearGradient-1">
+            <stop stop-color="#000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#D3D3D3" stop-opacity="0.117679196" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Dektop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.25">
+        <g id="02-Life-At-BCA" transform="translate(0.000000, -2238.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-19" transform="translate(0.000000, 2238.000000)">
+                <path d="M0,0 L1340,0 C1395.22847,-2.4356161e-14 1440,44.771525 1440,100 L1440,776 L1440,776 L0,776 L0,0 Z" id="Rectangle-Copy-4" transform="translate(720.000000, 388.000000) scale(-1, 1) translate(-720.000000, -388.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

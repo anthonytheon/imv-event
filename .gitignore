@@ -1,0 +1,7 @@
+bootstrap/cache/
+vendor/
+storage/framework/
+.env
+bootstrap/cache/services.php
+bootstrap/cache/packages.php
+storage/
